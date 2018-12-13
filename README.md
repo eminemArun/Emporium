@@ -1,3 +1,3 @@
 # Emporium
 
-Project is all about how apple pay on Web.
+Project is all about how apple pay work on Web.
